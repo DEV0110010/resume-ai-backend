@@ -1,4 +1,4 @@
-import Resume from "../models/Resume.model.js";
+import Resume from "../models/resume.model.js";
 import ai from '../configs/gemini.js';
 
 // controller for enhancing a resume's professional summary
